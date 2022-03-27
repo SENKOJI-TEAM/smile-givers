@@ -1,4 +1,4 @@
-# SMILE GIVERS APP (Front-End)
+# SMILE GIVERS APP (Full-stack)
 ----------------------------------------------------
 
 ## COURSE INFO
